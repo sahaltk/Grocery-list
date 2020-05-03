@@ -1,0 +1,91 @@
+[
+    {
+        "SLNo" : "1",
+        "Name" : "rice",
+        "Quantity" : "10",
+        "Unit" : "kg",
+        "Department" : "Grocery",
+        "Note" : "matta"  
+    },
+
+    {
+        "SLNo" : "1",
+        "Name" : "atta",
+        "Quantity" : "1",
+        "Unit" : "kg",
+        "Department" : "Grocery",
+        "Note" : "aashirvad" 
+    },
+
+    {
+        "SLNo" : "3",
+        "Name" : "Potato",
+        "Quantity" : "1",
+        "Unit" : "kg",
+        "Department" : "Vegetable",
+        "Note" : "big ones"
+    },
+
+    {
+        "SLNo" : "4",
+        "Name" : "Onion",
+        "Quantity" : "1",
+        "Unit" : "kg",
+        "Department" : "Vegetable",
+        "Note" : "Small onion"
+    },
+
+    {
+        "SLNo" : "5",
+        "Name" : "Orange",
+        "Quantity" : "1",
+        "Unit" : "kg",
+        "Department" : "Fruits",
+        "Note" : "Nagpoor"
+    },
+
+    {
+        "SLNo" : "6",
+        "Name" : "Chilli Powder",
+        "Quantity" : "500",
+        "Unit" : "gram",
+        "Department" : "Spices",
+        "Note" : " Eastern"
+    },
+
+    {
+        "SLNo" : "7",
+        "Name" : "dish wash",
+        "Quantity" : "500",
+        "Unit" : "ml",
+        "Department" : "clean&hygiene",
+        "Note" : "vim"
+    },
+
+    {
+        "SLNo" : "8",
+        "Name" : "Soap",
+        "Quantity" : "1",
+        "Unit" : "number",
+        "Department" : "clean&hygiene",
+        "Note" : "lux"
+    },
+
+    {
+        "SLNo" : "9",
+        "Name" : "Sanitizer",
+        "Quantity" : "250",
+        "Unit" : "ml",
+        "Department" : "Health&beauty",
+        "Note" : "lifebouy"
+    },
+
+    {
+        "SLNo" : "10",
+        "Name" : "toothpaste",
+        "Quantity" : "4",
+        "Unit" : "number",
+        "Department" : "health&beauty",
+        "Note" : "cogate"
+    }
+]
